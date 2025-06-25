@@ -1,6 +1,9 @@
 
 # End to End Machine Learning Pipeline
 This project implements a fully automated end-to-end machine learning pipeline that ingests raw data, performs preprocessing and feature engineering, trains and evaluates multiple machine learning models, and generates predictions. 
+
+This pipeline is for the module CS611.
+
 ## Table of Contents
 - [About](#-about)
 - [Usage](#-how-to-build)
