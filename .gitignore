@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+.ipynb_checkpoints/
+datamart/
+*.parquet
+*.log
+.env
+data/
+datamart/
+airflow/logs/
+mlruns/
+monitoring/inference_data/*
+monitoring/reference_data/*
+inference/mlflow_modelo
