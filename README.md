@@ -234,7 +234,7 @@ Run the following command in project root. This script will monitoring label and
 
 ## 👥 Collaborators
 
-- [@yeosiying](https://github.com/yeosiying)
-- [@alzx1990](https://github.com/alzx1990)
-- [@bitofbean](https://github.com/bitofbean)
-- [@th-chew](https://github.com/th-chew)
+- [@Siying](https://github.com/yeosiying)
+- [@Alvin](https://github.com/alzx1990)
+- [@Dolly](https://github.com/bitofbean)
+- [@Logan](https://github.com/th-chew)
