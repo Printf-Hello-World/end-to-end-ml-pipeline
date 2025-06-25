@@ -230,3 +230,11 @@ Run the following command in project root. This script will monitoring label and
 
 1. Go to EvidentlyAI (localhost:9000)
 2. Click on Reports tab to access monitoring reports
+
+
+## 👥 Collaborators
+
+- [@yeosiying](https://github.com/yeosiying)
+- [@alzx1990](https://github.com/alzx1990)
+- [@bitofbean](https://github.com/bitofbean)
+- [@th-chew](https://github.com/th-chew)
