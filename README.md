@@ -1,3 +1,5 @@
+![Architecture](assets/end2end.png)
+
 # End-to-End ML Pipeline for Fraud Detection System
 
 This project implements a fully automated end-to-end machine learning pipeline that ingests raw data, performs data preprocessing and feature engineering, trains and evaluates multiple machine learning models, generates predictions and monitor model performance overtime.
